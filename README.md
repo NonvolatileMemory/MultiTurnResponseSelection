@@ -1,3 +1,6 @@
+# News!
+I use mxnet-gluon reimplement this work and I will upload it when I get the same result in this paper.
+Mxnet is awersome !
 # Douban Conversation Corpus
 
 ## Data set
